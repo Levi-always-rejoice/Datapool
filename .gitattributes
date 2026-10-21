@@ -9,3 +9,4 @@ diagnose/downstream/**/*.mat filter=lfs diff=lfs merge=lfs -text
 GNSS/grace2015/raw/2015-03-04/*.mat filter=lfs diff=lfs merge=lfs -text
 GNSS/grace2015/raw/2015-03-04/*.dat filter=lfs diff=lfs merge=lfs -text
 diagnose/if08cm/** filter=lfs diff=lfs merge=lfs -text
+diagnose/if08cm_multiday/** filter=lfs diff=lfs merge=lfs -text
