@@ -12,3 +12,4 @@ diagnose/if08cm/** filter=lfs diff=lfs merge=lfs -text
 diagnose/if08cm_multiday/** filter=lfs diff=lfs merge=lfs -text
 diagnose/upstream/grace_20150306/**/*.mat filter=lfs diff=lfs merge=lfs -text
 diagnose/diagnostics_20261104/*.zip filter=lfs diff=lfs merge=lfs -text
+diagnose/diagnostics_20261104/*.dat filter=lfs diff=lfs merge=lfs -text
