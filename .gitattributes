@@ -17,3 +17,5 @@ diagnose/diagnostics_20261104/empirical_frame_check_*.zip filter=lfs diff=lfs me
 diagnose/grace2015/20261105_orbit_regression_28_29/**/*.mat filter=lfs diff=lfs merge=lfs -text
 diagnose/grace2015/20261106_gap28_raw/*.dat filter=lfs diff=lfs merge=lfs -text
 diagnose/grace2015/20261106_gap28_bootstrap/* filter=lfs diff=lfs merge=lfs -text
+diagnose/grace2015/20261106_density23/**/*.mat filter=lfs diff=lfs merge=lfs -text
+diagnose/grace2015/20261106_density23/**/*.csv filter=lfs diff=lfs merge=lfs -text
