@@ -22,3 +22,8 @@ diagnose/grace2015/20261106_density23/**/*.csv filter=lfs diff=lfs merge=lfs -te
 diagnose/grace2015/crf_srf_geometry_check/**/*.mat filter=lfs diff=lfs merge=lfs -text
 diagnose/grace2015/crf_srf_geometry_check/**/*.asc filter=lfs diff=lfs merge=lfs -text
 diagnose/crf_independent_drift_20261104/**/*.mat filter=lfs diff=lfs merge=lfs -text
+diagnose/solid_tide_full_comparison/**/*.mat filter=lfs diff=lfs merge=lfs -text
+diagnose/solid_tide_full_comparison/**/*.asc filter=lfs diff=lfs merge=lfs -text
+diagnose/solid_tide_full_comparison/**/*.png filter=lfs diff=lfs merge=lfs -text
+diagnose/solid_tide_full_comparison/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+diagnose/solid_tide_full_comparison/**/*.fig filter=lfs diff=lfs merge=lfs -text
